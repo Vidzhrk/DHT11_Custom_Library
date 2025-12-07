@@ -20,7 +20,7 @@ Built from scratch — no external libraries used.
 |-------|---------------|
 | VCC   | 3.3V / 5V     |
 | GND   | GND           |
-| DATA  | D2 (or any GPIO) |
+| DATA  | D4 (or any GPIO) |
 | 10k resistor | DATA → VCC |
 
 
